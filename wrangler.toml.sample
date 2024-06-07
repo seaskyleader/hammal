@@ -1,6 +1,6 @@
 name = "hammal"
 type = "webpack"
-account_id = "your account_id"
+account_id = "33f0fd43ecb3be2c4401478926a55d14"
 workers_dev = true
 route = ""
 zone_id = ""
